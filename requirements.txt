@@ -4,4 +4,4 @@ itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
 Werkzeug==0.14.1
--e git+https://github.com/threatstream/hpfeeds/#egg=hpfeeds-dev
+-e git+https://github.com/pwnlandia/hpfeeds/#egg=hpfeeds-threatstream
